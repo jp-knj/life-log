@@ -1,3 +1,7 @@
+---
+description: 翌週の目標を作成
+---
+
 来週分の `goals/YYYY-Www.md` を作成する。
 
 ## 手順

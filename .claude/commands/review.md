@@ -1,3 +1,7 @@
+---
+description: 直近7日のレビューを生成
+---
+
 直近7日分の `logs/` を読み込み、以下の構造で出力する。
 
 ## 1. Habit completion counts
