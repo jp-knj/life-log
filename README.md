@@ -32,9 +32,9 @@ claude
 │   └── weekly.md          # 週次目標テンプレ
 ├── goals/
 │   └── YYYY-Www.md        # 週次目標
-└── logs/
+└── logs/                  # 日次ログ（ローカル限定、gitignore済み）
     └── YYYY/MM/
-        └── YYYY-MM-DD.md  # 日次ログ
+        └── YYYY-MM-DD.md
 ```
 
 ## 設計思想

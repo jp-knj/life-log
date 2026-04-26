@@ -6,3 +6,7 @@
 node_modules/
 .env
 .env.local
+
+# 日次ログはローカルのみ（プライバシー保護のため公開しない）
+logs/*
+!logs/README.md
