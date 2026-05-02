@@ -15,7 +15,8 @@ description: 翌週の目標を作成
    - "Bizmates の本数は？（先週: X）"
    - "Option B で挑戦したいものは？"
 4. `templates/weekly.md` の構造で新ファイルを書き出す。
-5. ファイルを1度表示して終了。
+5. ファイルを1度表示する。
+6. 作成した `goals/YYYY-Www.md` だけを `git add` し、`git commit -m "plan: YYYY-Www"` でコミット、`git push origin main` する。失敗したらユーザーに報告して終了。
 
 ## 禁止
 
